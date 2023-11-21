@@ -32,7 +32,7 @@ What is the time frame for data collection? (e.g., specific dates leading up to 
 Are there any specific events or milestones during this period that should be considered?
 Why: Defining the temporal scope helps in capturing data during the critical phases of the election campaign.
 
-**5. Ethical Considerations:**
+**5. Ethical Considerations and approvals:**
 
 What ethical considerations need to be addressed in collecting data from social media platforms?
 How will the researcher handle issues related to privacy and consent?
