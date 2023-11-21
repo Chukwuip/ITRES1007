@@ -6,7 +6,8 @@ for that sample. Occasionally, a sample run fails and fewer than 100 values are 
 Can you show this researcher how to quickly identify the sample files that have fewer than 100 values?
 
 **Solution**
-
+None of the files has 100 values, from the code below, this suggests that the codes is not working at all.  
+I will inform the researcher to run the following script to quickly check which files are running.  
 Open a new code cell in the Jupyter Notebook a nd rune the code below:
 `````
 import os
@@ -39,8 +40,9 @@ def identify_files_with_fewer_values(folder_path, expected_values=100):
 folder_path = 'C:/Users/<myUsername>/Documents/Python_Scripts/rseprac-master/problem_2_worked_examples/'  # Replace with the username your sample files
 identify_files_with_fewer_values(folder_path)
 `````
+I'll let the researcher do the following:  
+Open a new code cell in the Jupyter Notebook, and write the codes above or the ````2_problem_2_solution.ipynb```` notebook.  
+Replace the folder_path variable with the actual path to their sample files.  
+They can modify the expected_values argument if they want a different threshold.  
 
-Replace the folder_path variable with the actual path to their sample files.
-They can modify the expected_values argument if they want a different threshold.
-
-Solution is uploaded differently.
+Solution is uploaded differently: ````ITRES1007/problem_1_worked_examples/2_problem_2_solution.ipynb````
