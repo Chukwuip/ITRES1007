@@ -1,11 +1,11 @@
-**Problem 3:**
+# Problem 3:
 See the task_3 subdirectory. A researcher has approached you with a piece of Python code (pyscript.py in the problem_3 subdirectory) which seems to be running slower than she expects.
 She doesn’t want you to fix the code, but would like you to explain some general principles that she can  apply herself to investigate the code and work out where the problems are.
 What would you suggest?
 
 
 
-**Solution**
+# Solution
 
 **1. Use a Profiler:**
 
