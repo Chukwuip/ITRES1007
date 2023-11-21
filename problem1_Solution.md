@@ -1,4 +1,4 @@
-**Problem 1:**  
+# Problem 1: 
 See the problem_1 subdirectory.
 A researcher has inadvertently renamed all their 100 data files with the wrong file extension and doesn’t 
 know how to change them back.
@@ -6,7 +6,7 @@ Show you can rename the files to have a .dat file extension and explain to the r
 do this themselves if they make this mistake again.
 
 
-__Answers__
+# Solution
 
 How I will rename the 100 files with the wrong file extentions and explain to the researchers how to do this themselves.  
 
