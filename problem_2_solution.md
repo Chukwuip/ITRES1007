@@ -39,7 +39,7 @@ def find_files_having_lesser_values(folder_path, expected_values=100):
                 print(f"This file '{file_name}' has {num_values} but the values should be:{expected_values}.")
 
 # Example usage
-file_path = 'C:/Users/<myUsername>/Documents/Python_Scripts/rseprac-master/problem_2_worked_examples/'  # Replace with the username your sample files
+folder_path = 'C:/Users/<myUsername>/Documents/Python_Scripts/rseprac-master/problem_2_worked_examples/'  # Replace with the username your sample files
 find_files_having_lesser_values(folder_path)
 `````
 I'll let the researcher do the following:  
