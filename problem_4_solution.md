@@ -6,6 +6,7 @@ How would you go about the process of Requirements Analysis for this query? What
 # Solution
 
 Requirements analysis is a crucial step in any data collection project, as it helps ensure that the data collected aligns with the goals and objectives of the research. In the context of collecting data from Twitter and Facebook for studying comments related to the 2019 Indian general election, here are some important questions to ask during the requirements analysis:
+I will be asking some series of questions under the following sub headings.
 
 **1. Research Objectives:**
 
@@ -25,7 +26,7 @@ What keywords, hashtags, or terms will be used to identify relevant posts and co
 Are there specific accounts, groups, or pages that should be included or excluded?
 Why: Identifying relevant data sources is crucial for obtaining a dataset that is representative of the study's focus.
 
-**4. Temporal Scope:**
+**4. Research Scope:**
 
 What is the time frame for data collection? (e.g., specific dates leading up to the election)
 Are there any specific events or milestones during this period that should be considered?
