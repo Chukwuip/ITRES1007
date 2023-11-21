@@ -10,7 +10,7 @@ do this themselves if they make this mistake again.
 
 How I will rename the 100 files with the wrong file extentions and explain to the researchers how to do this themselves.  
 
-I'll use a python script in the code snippe below
+I'll use a python script in the code snippet below
 `````
 import os
 
@@ -51,4 +51,4 @@ I will let the researcher know that they can do these themselves in the future u
 - They can also modify the new_extension argument if they want a different file extension.
  - Run the code cell.
 
-The code with the run example is included below.
+The code with the run example and the files wit the names changed are included here - ```problem_1_worked_examples/1_Problem1_solution.ipynb```
