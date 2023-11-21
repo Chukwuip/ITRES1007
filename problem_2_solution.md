@@ -6,18 +6,20 @@ for that sample. Occasionally, a sample run fails and fewer than 100 values are 
 Can you show this researcher how to quickly identify the sample files that have fewer than 100 values?
 
 # Solution
-None of the files has 100 values, from the code below, this suggests that the codes is not working at all.  
-I will inform the researcher to run the following script to quickly check which files are running.  
+**None of the files has 100 values, from the code below, this suggests that the codes is not meeting the exceptation of the researcher at all.** 
+
+However, I will inform the researcher to run the following script to quickly check which files are running and are doing what they were designed to do.  
+
 Open a new code cell in the Jupyter Notebook a nd rune the code below:
 `````
 import os
 
-def identify_files_with_fewer_values(folder_path, expected_values=100):
+def find_files_having_lesser_values(folder_path, expected_values=100):
     """
     To identify sample files in the specified folder that have fewer than the expected number of values.
     
     Parameters:
-    - folder_path (str): The path to the folder containing the sample files.
+    - file_path (str): The path to the folder containing the sample files.
     - expected_values (int): The expected number of values per sample file.
     """
     # List all files in the specified folder and iterate through each file
@@ -37,8 +39,8 @@ def identify_files_with_fewer_values(folder_path, expected_values=100):
                 print(f"This file '{file_name}' has {num_values} but the values should be:{expected_values}.")
 
 # Example usage
-folder_path = 'C:/Users/<myUsername>/Documents/Python_Scripts/rseprac-master/problem_2_worked_examples/'  # Replace with the username your sample files
-identify_files_with_fewer_values(folder_path)
+file_path = 'C:/Users/<myUsername>/Documents/Python_Scripts/rseprac-master/problem_2_worked_examples/'  # Replace with the username your sample files
+find_files_having_lesser_values(folder_path)
 `````
 I'll let the researcher do the following:  
 Open a new code cell in the Jupyter Notebook, and write the codes above or the ````2_problem_2_solution.ipynb```` notebook.  
