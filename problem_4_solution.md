@@ -56,4 +56,4 @@ How will the collected data be analyzed and reported?
 Are there any specific visualizations or reports the researcher envisions?
 Why: Planning for data analysis and reporting ensures that the collected data serves the intended purpose and provides meaningful insights.
 
-By addressing these questions during the requirements analysis phase, the researcher can develop a comprehensive plan for collecting, processing, and analyzing data from Twitter and Facebook in a manner that aligns with the research objectives and ethical standards.
+By addressing these questions during the requirements analysis phase, I will help the researcher to develop a comprehensive project plan for collecting, processing, and analyzing data from Twitter and Facebook in a manner that aligns with the research objectives and ethical standards. With a developed plan, the researcher and I will work through these processes.
